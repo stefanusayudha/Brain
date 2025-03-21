@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Brain"
 include(":app")
+include(":brain")
